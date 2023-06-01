@@ -33,6 +33,14 @@ WorldUtils is a [Minecraft](https://www.minecraft.net/en-us) [Spigot](https://ww
 
 WorldUtils Projects is an extension to WorldUtils and contains some long-term Minecraft projects. At the moment, there is only one: AllItems, whith the objective to collect all obtainable items in the game. This plugin is available [here](https://github.com/fflopsi/worldutils-projects).
 
+## Repositories
+
+All the links to my repositories:
+
+{% for repository in site.github.public_repositories %}
+  - [{{ repository.name }}]({{ repository.html_url }}): {{ repository.description }}
+{% endfor %}
+
 ---
 
 *[View on GitHub](https://github.com/fflopsi/fflopsi.github.io)*

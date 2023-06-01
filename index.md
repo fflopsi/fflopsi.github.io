@@ -11,6 +11,8 @@ My name is Florian and I am a 20-year-old hobby coder based in Switzerland. Sinc
 
 The main languages I've been learning are Python and Java, and more recently, Kotlin and R. I've also looked into many other languages like Shell/Bash, LaTeX, C/C++, C#, SQL, HTML/CSS/JavaScript/TypeScript, Dart, etc.
 
+This fall (September 2023), I'll start my studies at university. Let's hope I still find some time to code... 😄
+
 ## Some projects
 
 Here's some information about my projects that are available on [my GitHub](https://github.com/fflopsi):
@@ -35,7 +37,7 @@ WorldUtils Projects is an extension to WorldUtils and contains some long-term Mi
 
 ## Repositories
 
-All the links to my repositories:
+All the links to my repositories with descriptions:
 
 {% for repository in site.github.public_repositories %}
   - [{{ repository.name }}]({{ repository.html_url }}): {{ repository.description }}{% if repository.archived %} (Archived){% endif %}

@@ -34,4 +34,4 @@ WorldUtils Projects is an extension to WorldUtils and contains some long-term Mi
 
 ---
 
-[View on GitHub](https://github.com/fflopsi/fflopsi.github.io)
+*[View on GitHub](https://github.com/fflopsi/fflopsi.github.io)*

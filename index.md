@@ -38,7 +38,7 @@ WorldUtils Projects is an extension to WorldUtils and contains some long-term Mi
 All the links to my repositories:
 
 {% for repository in site.github.public_repositories %}
-  - [{{ repository.name }}]({{ repository.html_url }}): {{ repository.description }}{% if repository.archived %}(Archived){% endif %}
+  - [{{ repository.name }}]({{ repository.html_url }}): {{ repository.description }}{% if repository.archived %} (Archived){% endif %}
 {% endfor %}
 
 ---

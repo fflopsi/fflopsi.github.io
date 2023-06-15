@@ -7,11 +7,11 @@ title: About me / @fflopsi
 
 ## About me
 
-My name is Florian and I am a 20-year-old hobby coder based in Switzerland. Since about 2015, I've been teaching myself how to code.
+My name is Florian and I am a 20-year-old hobby coder based in Switzerland. Since about 2016, I've been teaching myself how to code.
 
 The main languages I've been learning are Python and Java, and more recently, Kotlin and R. I've also looked into many other languages like Shell/Bash, LaTeX, C/C++, C#, SQL, HTML/CSS/JavaScript/TypeScript, Dart, etc.
 
-This fall (September 2023), I'm starting my studies at university. Let's hope I still find some time to code... 😄
+This fall (September 2023), I'm starting my studies at university (Physics at ETH Zürich). Let's hope I still find some time to code... 😄
 
 ## Some projects
 

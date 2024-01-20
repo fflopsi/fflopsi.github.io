@@ -7,11 +7,11 @@ title: About me / @fflopsi
 
 ## About me
 
-My name is Florian and I am a 20-year-old hobby coder based in Switzerland. Since about 2016, I've been teaching myself how to code.
+My name is Florian and I am a 21-year-old hobby coder based in Switzerland. Since about 2016, I've been teaching myself how to code.
 
-The main languages I've been learning are Python and Java, and more recently, Kotlin and R. I've also looked into many other languages like Shell/Bash, LaTeX, C/C++, C#, SQL, HTML/CSS/JavaScript/TypeScript, Dart, etc.
+The main languages I've been learning are Python and Java, and more recently, Kotlin and R. I've also looked into many other languages like Shell/Bash, LaTeX, C/C++, C#, SQL, Nix, HTML/CSS/JavaScript/TypeScript, Dart, etc.
 
-This fall (September 2023), I'm starting my studies at university (Physics at ETH Zürich). Let's hope I still find some time to code... 😄
+I'm currently studying physics at ETH Zurich, and thus do not have that much time to code for myself. As a result, many of my projects have not been updated recently.
 
 ## Some projects
 
@@ -19,11 +19,15 @@ Here's some information about my projects that are available on [my GitHub](http
 
 ### Tournaments
 
-Tournaments is an Android App built with [Jetpack Compose](https://developer.android.com/jetpack/compose) for managing croquet tournaments with multiple players and multiple games per tournament. I'm currently converting this to a [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/) project. More information about it can be found [here](/tournaments).
+Tournaments is an Android app built with [Jetpack Compose](https://developer.android.com/jetpack/compose) for managing croquet tournaments with multiple players and multiple games per tournament. I'm currently converting this to a [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/) project. More information about it can be found [here](/tournaments).
 
 ### ArchCustomization
 
 Just a simple collection of some Bash scripts to customize an [EndeavourOS](https://endeavouros.com) / [Arch Linux](https://archlinux.org) installation to my liking, e.g. installing some packages, theming and customizing [Gnome](https://www.gnome.org/) and installing some [extensions](https://extensions.gnome.org/), some configuration, etc. All these scripts can be found [here](https://github.com/fflopsi/arch-customization).
+
+### NixOS Config
+
+Since I do not have much time to fiddle with my system during my studies, I switched from Arch/EndeavourOS (see above) to [NixOS](https://nixos.org/) to better orrganize my system configuration. I simply uploaded the [flake](https://nixos.wiki/wiki/Flakes) and all the files necessary (system configuration and some [home-manager](https://nix-community.github.io/home-manager/) files) to rebuild my systems to [this repo](https://github.com/fflopsi/nixos-config/).
 
 ### TwoBodyProblem
 
